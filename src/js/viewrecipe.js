@@ -1,8 +1,7 @@
 import icons from "url:../img/icons.svg";
 import View from "./view.js";
 
-import fraction from "fractional";
-console.log(fraction);
+import { Fraction } from "fractional";
 // import { controlRecipes } from "./controller.jss
 
 class RecipeView extends View {
