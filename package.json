@@ -2,7 +2,7 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "recipe app",
-  "build": "script.js",
+  "main": "script.js",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
